@@ -26,12 +26,12 @@ const PokedexModule = (() => {
     const drawPokemonCard = (pokemon) => {
         const card = `
             <div class="col-md-4 mb-4">
-                <div class="card">
+                <div class="card" data-type="${pokemon.type}">
                     <img src="${pokemon.spriteUrl}" class="card-img-top" alt="${pokemon.name}">
                     <div class="card-body">
                         <h5 class="card-title">${pokemon.name}</h5>
                         <p class="card-text">${pokemon.species}</p>
-                        <p class="card-text">Type: ${pokemon.type}</p>
+                        <p class="card-text">Tipo: ${pokemon.type}</p>
                         <a href="#" class="btn btn-primary" data-toggle="modal" data-target="#${pokemon.name}Modal">Details</a>
                     </div>
                 </div>
@@ -118,5 +118,26 @@ const PokedexModule = (() => {
 })();
 
 $(document).ready(() => {
+    const searchInput = $("#searchInput");
+    const typeCheckboxes = $("input[type='checkbox']");
+     // Filtrar por nombre al escribir en la caja de búsqueda
+     searchInput.on("input", () => {
+        const searchText = searchInput.val().toLowerCase();
+        $("#pokedexContainer .card").each(function() {
+            const cardName = $(this).find(".card-title").text().toLowerCase();
+            $(this).toggle(cardName.includes(searchText));
+        });
+    });
+
+    // Filtrar por tipo al seleccionar un checkbox
+    typeCheckboxes.on("change", function() {
+        const selectedType = $(this).val();
+        if (selectedType === "all") {
+            $("#pokedexContainer .card").show();
+        } else {
+            $("#pokedexContainer .card").hide();
+            $(`.card[data-type='${selectedType}']`).show();
+        }
+    });
     PokedexModule.drawPokedex();
 });

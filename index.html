@@ -8,12 +8,94 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <h1 class="text-center my-4">Pokédex</h1>
-        <div class="row" id="pokedexContainer">
-            <!-- Las cartas Pokémon se agregarán dinámicamente aquí -->
+    <header class="header">
+        <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+            <a class="navbar-brand text-white" href="#">Pokédex</a>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <input id="searchInput" class="form-control mr-sm-2" type="search" placeholder="Search Pokémon" aria-label="Search">
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <aside class="sidebar align-content-center">
+        <h5 class="text-center">Types</h5>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="all" id="typeAll">
+            <label class="form-check-label" for="typeAll">All</label>
         </div>
-    </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="normal" id="typeNormal">
+            <label class="form-check-label" for="typeNormal">Normal</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="fire" id="typeFire">
+            <label class="form-check-label" for="typeFire">Fire</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="water" id="typeWater">
+            <label class="form-check-label" for="typeWater">Water</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="electric" id="typeElectric">
+            <label class="form-check-label" for="typeElectric">Electric</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="grass" id="typeGrass">
+            <label class="form-check-label" for="typeGrass">Grass</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="ice" id="typeIce">
+            <label class="form-check-label" for="typeIce">Ice</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="fighting" id="typeFighting">
+            <label class="form-check-label" for="typeFighting">Fighting</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="poison" id="typePoison">
+            <label class="form-check-label" for="typePoison">Poison</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="ground" id="typeGround">
+            <label class="form-check-label" for="typeGround">Ground</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="psychic" id="typePsychic">
+            <label class="form-check-label" for="typePsychic">Psychic</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="bug" id="typeBug">
+            <label class="form-check-label" for="typeBug">Bug</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="rock" id="typeRock">
+            <label class="form-check-label" for="typeRock">Rock</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="ghost" id="typeGhost">
+            <label class="form-check-label" for="typeGhost">Ghost</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="fairy" id="typeFairy">
+            <label class="form-check-label" for="typeFairy">Fairy</label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="dragon" id="typeDragon">
+            <label class="form-check-label" for="typeDragon">Dragon</label>
+        </div>
+    </aside>
+    
+        <article class="article">
+            <div class="container position-relative">
+                <h1 class="text-center my-4">Pokédex</h1>
+                <div class="row" id="pokedexContainer">
+                    <!-- Las cartas Pokémon se agregarán dinámicamente aquí -->
+                </div>
+            </div>
+        </article>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>

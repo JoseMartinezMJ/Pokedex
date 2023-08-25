@@ -1,0 +1,7 @@
+.sidebar{
+    background-color: gainsboro;
+    width: 150px;
+    height: 100vh;
+    position: fixed;
+}
+
