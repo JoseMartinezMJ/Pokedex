@@ -22,7 +22,7 @@ const PokedexModule = (() => {
         pokemonList.push(pokemon);
     };
     /*drawPokemonCard esta función se encarga de generar el HTML necesario para mostrar una tarjeta (card) que representa a un Pokémon en la página web. 
-    También configura un botón de "Details" que abrirá un modal con información adicional del Pokémon. Aquí tienes una explicación más detallada. */
+    También configura un botón de "Details" que abrirá un modal con información adicional del Pokémon. */
     const drawPokemonCard = (pokemon) => {
         const card = `
             <div class="col-md-4 mb-4">
