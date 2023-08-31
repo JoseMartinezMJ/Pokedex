@@ -1,0 +1,3316 @@
+{
+	"info": {
+		"_postman_id": "8774689f-51b8-4709-9efd-e08ed2c8beaa",
+		"name": "Pokedex",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29352217",
+		"_collection_link": "https://pokedex21008.postman.co/workspace/bd3fc295-7b77-43e0-8adc-98d83022e611/collection/29352217-8774689f-51b8-4709-9efd-e08ed2c8beaa?action=share&source=collection_link&creator=29352217"
+	},
+	"item": [
+		{
+			"name": "Pokemons",
+			"item": [
+				{
+					"name": "1. Bulbasaur",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/bulbasaur",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"bulbasaur"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "2. Ivysaur",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/ivysaur",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"ivysaur"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "3. Venusaur",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/venusaur",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"venusaur"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "4. Charmander",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/charmander",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"charmander"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "5. Charmeleon",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/charmeleon",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"charmeleon"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "6. Charizard",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/charizard",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"charizard"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "7. Squirtle",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/squirtle",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"squirtle"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "8. Wartortle",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/wartortle",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"wartortle"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "9. Blastoise",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/blastoise",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"blastoise"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "10. Caterpie",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/caterpie",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"caterpie"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "11. Metapod ",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/metapod",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"metapod"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "12. Butterfree",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/butterfree",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"butterfree"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "13. Weedle",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/weedle",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"weedle"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "14. Kakuna",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/kakuna",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"kakuna"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "15. Beedrill",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/beedrill",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"beedrill"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "16. Pidgey",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/pidgey",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"pidgey"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "17. Pidgeotto",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/pidgeotto",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"pidgeotto"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "18. Pidgeot",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/pidgeot",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"pidgeot"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "19. Rattata",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/rattata",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"rattata"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "20. Raticate",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/raticate",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"raticate"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "21. Spearow",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/spearow",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"spearow"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "22. Fearow",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/fearow",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"fearow"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "23. Ekans",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/ekans",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"ekans"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "24. Arbok",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/arbok",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"arbok"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "25. Pikachu",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/pikachu",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"pikachu"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "26. Raichu",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/raichu",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"raichu"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "27. Sandshrew",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/sandshrew",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"sandshrew"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "28. Sandslash",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/sandslash",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"sandslash"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "29. Nidoran-f",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/nidoran-f",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"nidoran-f"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "30. Nidorina",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/nidorina",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"nidorina"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "31. Nidoqueen",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/nidoqueen",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"nidoqueen"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "32. Nidoran-m",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/nidoran-m",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"nidoran-m"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "33. Nidorino",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/nidorino",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"nidorino"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "34. Nidoking",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/nidoking",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"nidoking"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "35. Clefairy",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/clefairy",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"clefairy"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "36. Clefable",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/clefable",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"clefable"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "37. Vulpix",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/vulpix",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"vulpix"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "38. Ninetales",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/ninetales",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"ninetales"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "39. Jigglypuff",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/jigglypuff",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"jigglypuff"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "40. Wigglytuff",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/wigglytuff",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"wigglytuff"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "41. Zubat",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/zubat",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"zubat"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "42. Golbat",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/golbat",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"golbat"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "43. Oddish",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/oddish",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"oddish"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "44. Gloom",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/gloom",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"gloom"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "45. Vileplume",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/vileplume",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"vileplume"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "46. Paras",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/paras",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"paras"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "47. Parasect",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/parasect",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"parasect"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "48. Venonat",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/venonat",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"venonat"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "49. Venomoth",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/venomoth",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"venomoth"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "50. Diglett",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/diglett",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"diglett"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "51. Dugtrio",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/dugtrio",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"dugtrio"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "52. Meowth",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/meowth",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"meowth"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "53. Persian",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/persian",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"persian"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "54. Psyduck",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/psyduck",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"psyduck"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "55. Golduck",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/golduck",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"golduck"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "56. Mankey",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/mankey",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"mankey"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "57. Primeape",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/primeape",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"primeape"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "58. Growlithe",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/growlithe",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"growlithe"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "59. Arcanine",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/arcanine",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"arcanine"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "60. Poliwag",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/poliwag",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"poliwag"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "61. Poliwhirl",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/poliwhirl",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"poliwhirl"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "62. Poliwrath",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/poliwrath",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"poliwrath"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "63. Abra",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/abra",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"abra"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "64. Kadabra",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/kadabra",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"kadabra"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "65. Alakazam",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/alakazam",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"alakazam"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "66. Machop",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/machop",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"machop"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "67. Machoke",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/machoke",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"machoke"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "68. Machamp",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/machamp",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"machamp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "69. Bellsprout",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/bellsprout",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"bellsprout"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "70. Weepinbell",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/weepinbell",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"weepinbell"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "71. Victreebel",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/victreebel",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"victreebel"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "72. Tentacool",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/tentacool",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"tentacool"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "73. Tentacruel",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/tentacruel",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"tentacruel"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "74. Geodude",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/geodude",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"geodude"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "75. Graveler",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/graveler",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"graveler"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "76. Golem",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/golem",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"golem"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "77. Ponyta",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/ponyta",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"ponyta"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "78. Rapidash",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/rapidash",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"rapidash"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "79. Slowpoke",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/slowpoke",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"slowpoke"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "80. Slowbro",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/slowbro",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"slowbro"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "81. Magnemite",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/magnemite",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"magnemite"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "82. Magneton",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/magneton",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"magneton"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "83. Farfetchd",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/farfetchd",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"farfetchd"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "84. Doduo",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/doduo",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"doduo"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "85. Dodrio",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/dodrio",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"dodrio"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "86. Seel",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/seel",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"seel"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "87. Dewgong",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/dewgong",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"dewgong"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "88. Grimer",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/grimer",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"grimer"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "89. Muk",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/muk",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"muk"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "90. Shellder",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/shellder",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"shellder"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "91. Cloyster",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/cloyster",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"cloyster"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "92. Gastly",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/gastly",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"gastly"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "93. Haunter",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/haunter",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"haunter"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "94. Gengar",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/gengar",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"gengar"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "95. Onix",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/onix",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"onix"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "96. Drowzee",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/drowzee",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"drowzee"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "97. Hypno",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/hypno",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"hypno"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "98. Krabby",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/krabby",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"krabby"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "99. Kingler",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/kingler",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"kingler"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "100. Voltorb",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/voltorb",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"voltorb"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "101. Electrode",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/electrode",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"electrode"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "102. Exeggcute",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/exeggcute",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"exeggcute"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "103. Exeggutor",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/exeggutor",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"exeggutor"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "104. Cubone",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/cubone",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"cubone"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "105. Marowak",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/marowak",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"marowak"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "106. Hitmonlee",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/hitmonlee",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"hitmonlee"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "107. Hitmonchan",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/hitmonchan",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"hitmonchan"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "108. Lickitung",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/lickitung",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"lickitung"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "109. Koffing",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/koffing",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"koffing"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "110. Weezing",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/weezing",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"weezing"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "111. Rhyhorn",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/rhyhorn",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"rhyhorn"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "112. Rhydon",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/rhydon",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"rhydon"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "113. Chansey",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/chansey",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"chansey"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "114. Tangela",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/tangela",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"tangela"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "115. Kangaskhan",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/kangaskhan",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"kangaskhan"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "116. Horsea",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/horsea",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"horsea"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "117. Seadra",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/seadra",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"seadra"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "118. Goldeen",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/goldeen",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"goldeen"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "119. Seaking",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/seaking",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"seaking"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "120. Staryu",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/staryu",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"staryu"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "121. Starmie",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/starmie",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"starmie"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "122. Mr-mime",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/mr-mime",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"mr-mime"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "123. Scyther",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/scyther",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"scyther"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "124. Jynx",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/jynx",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"jynx"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "125. Electabuzz",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/electabuzz",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"electabuzz"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "126. Magmar",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/magmar",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"magmar"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "127. Pinsir",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/pinsir",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"pinsir"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "128. Tauros",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/tauros",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"tauros"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "129. Magikarp",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/magikarp",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"magikarp"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "130. Gyarados",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/gyarados",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"gyarados"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "131. Lapras",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/lapras",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"lapras"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "132. Ditto",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/ditto",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"ditto"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "133. Eevee",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/eevee",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"eevee"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "134. Vaporeon",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/vaporeon",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"vaporeon"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "135. Jolteon",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/jolteon",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"jolteon"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "136. Flareon",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/flareon",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"flareon"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "137. Porygon",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/porygon",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"porygon"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "138. Omanyte",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/omanyte",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"omanyte"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "139. Omastar",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/omastar",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"omastar"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "140. Kabuto",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/kabuto",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"kabuto"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "141. Kabutops",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/kabutops",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"kabutops"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "142. Aerodactyl",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/aerodactyl",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"aerodactyl"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "143. Snorlax",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/snorlax",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"snorlax"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "144. Articuno",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/articuno",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"articuno"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "145. Zapdos",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/zapdos",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"zapdos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "146. Moltres",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/moltres",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"moltres"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "147. Dratini",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/dratini",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"dratini"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "148. Dragonair",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/dragonair",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"dragonair"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "149. Dragonite",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/dragonite",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"dragonite"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "150. Mewtwo",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://pokeapi.co/api/v2/pokemon/mewtwo",
+							"protocol": "https",
+							"host": [
+								"pokeapi",
+								"co"
+							],
+							"path": [
+								"api",
+								"v2",
+								"pokemon",
+								"mewtwo"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
