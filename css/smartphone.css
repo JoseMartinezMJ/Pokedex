@@ -1,0 +1,94 @@
+@media only screen and (max-width: 890px) {
+    header {
+        height: 200px;
+        grid-template-areas: 
+            "headerTop"
+        ;
+        grid-template-columns: auto;
+    }
+    header img {
+        width: 130px;
+    }
+
+    .header-top {
+        grid-template-areas: 
+            "logo"
+            "search"
+        ;
+        grid-template-columns: auto;
+    }
+
+    .search input {
+        height: 30px;
+    }
+
+    .search button {
+        width: 30px;
+        height: 30px;
+    }
+
+    .search button img {
+        margin: 0;
+        width: 10px;
+    }
+
+    .buttons-types {
+        display: none;
+    }
+
+
+    .load-container {
+        margin-top: -40px;
+    }
+
+    .modal_container {
+        width: 350px;
+        height: 700px;
+        padding: 20px;
+    }
+
+    .modal_container img {
+        width: 90px;
+    }
+
+    .modal-main .types {
+        margin: 20px 0 10px;
+    }
+
+    .nav {
+        width: 310px;
+    }
+
+    .nav a {
+        font-size: 12px;
+    }
+
+    .information p {
+        font-size: 12px;
+    }
+
+    .bar {
+        height: 17px;
+    }
+
+    .bar .hp-value {
+        font-size: 13px;
+    }
+
+    .home {
+        margin-left: 20px;
+    }
+
+    .home img {
+        width: 60px;
+    }
+
+    .info-moves {
+        padding: 10px;
+        height: 120px;
+    }
+
+    .info-moves p {
+        font-size: 13px;
+    }
+}
