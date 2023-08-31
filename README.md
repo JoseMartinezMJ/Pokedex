@@ -5,6 +5,8 @@
 
 ## Pŕactica #1 - Consumo de la API: PokeAPI
 
+### Visita nuestra PokéDex dando click *[Aquí](https://josemartinezmj.github.io/Pokedex/)*
+
 #### Requerimientos:
 Desarrollar una pokédex consumiendo la API “PokéAPI”.
 ###### DISEÑO:
