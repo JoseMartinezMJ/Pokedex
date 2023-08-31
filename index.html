@@ -9,7 +9,7 @@
     <title>Pokédex</title>
 </head>
 <body>
-    <header data-header>
+    <header id="home" data-header>
 		<section class="header-top">
 			<article class="logo">
 				<img src="./images/logo.svg" alt="" data-logo>
@@ -18,11 +18,7 @@
 				<input type="search" placeholder="Buscar Pokémon..." spellcheck="false" data-input>
 				<button type="submit"><img src="./images/search.png"></button data-seacrh>
 			</form>
-			<section class="mode">
-				<!-- <input type="checkbox" id="light" data-mode> -->
-			</section>
 		</section>
-
 		<section class="buttons-types">
 			<button class="button-type" data-all>All</button>
 			<button class="button-type" data-grass>Grass</button>
@@ -44,6 +40,7 @@
 			<button class="button-type" data-dragon>Steel</button>
 		</section>
 	</header>
+	<a href="#home" class="home"><img src="./images/up-arrow.png" alt=""></a>
 	<main>
 		<section class="cards" data-cards>
 			
